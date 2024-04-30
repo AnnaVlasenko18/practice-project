@@ -65,3 +65,5 @@ function App() {
 }
 
 export default App;
+
+//     "lint:js": "eslint src/**/*.{js,jsx}"
